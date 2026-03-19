@@ -32,8 +32,7 @@ Me tornar um desenvolvedor cada vez melhor e construir projetos reais que ajudem
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpmZ285MzVpbWpqMjB2ZzFuY2g3ZndxOGE1ZzQxYjQ4MG1obHlvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG9fVWJdN41NeiHhzk/giphy.gif" width="300">
 </p>
-
 ---
 
