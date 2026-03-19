@@ -31,8 +31,9 @@ Me tornar um desenvolvedor cada vez melhor e construir projetos reais que ajudem
 
 ---
 
-### ⚡
-
 <p align="center">
-  <img src="https://giphy.com/gifs/flaticons-gG9fVWJdN41NeiHhzk" width="250">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 </p>
+
+---
+
